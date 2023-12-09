@@ -29,4 +29,6 @@ With a commitment to continuous learning, I'm always exploring new horizons in t
 
 Let's connect and collaborate! Whether you're interested in game development, mobile app creation, or simply share a passion for coding, I'm open to new ideas and perspectives.
 
+- Contact email: zubair.workspace@gmail.com
+
 Happy coding! 🚀✨

@@ -26,13 +26,6 @@
 <p align="center"> 
     <a href="https://github.com/zubairali001" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@zubairali001-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/zubair-ali-333175242/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-zubairali-ali?style=flat-square&logo=Linkedin&logoColor=white"></a>
-
-    <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
-    <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
-    <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
-    <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
-    <!--<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
-    <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
 I'm a dynamic developer currently immersed in the world of Unity 3D. Having spent a year honing my skills as a Flutter developer, I've crafted immersive and interactive experiences that resonate with users. Beyond these frameworks, my journey in the tech realm has led me to explore a diverse array of languages, including 👨‍💻 C#, Dart, Java, C, C++, and more.

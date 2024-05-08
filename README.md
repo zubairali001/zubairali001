@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/zubair-ali-333175242/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-zubairali-ali?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p> 
 
-I'm a dynamic developer currently immersed in the world of Unity 3D. Having spent a year honing my skills as a Flutter developer, I've crafted immersive and interactive experiences that resonate with users. Beyond these frameworks, my journey in the tech realm has led me to explore a diverse array of languages, including 👨‍💻 C#, Dart, Java, C, C++, and more.
+I'm a software engineer currently immersed in the world of Unity 3D. Having spent a year honing my skills as a Flutter developer, I've crafted immersive and interactive experiences that resonate with users. Beyond these frameworks, my journey in the tech realm has led me to explore a diverse array of languages, including 👨‍💻 C#, Dart, Java, C, C++, and more.
 
 ## 🌐 Tech Stack
 
